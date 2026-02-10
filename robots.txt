@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://hollandcodetest.github.io/sitemap.xml
